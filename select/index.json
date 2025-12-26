@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Thunderstruck",
+  "base_artist": "AC/DC",
+  "createdAt": "2025-12-26T14:09:17.436889Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Thunderstruck",
+      "artist": "Owl City feat. Sarah Russell",
+      "has_synced": true,
+      "path": "select/01_Thunderstruck_Owl_City_feat._Sarah_Russell.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Thunderstruck (Feat.Sarah Russell)",
+      "artist": "Owl City",
+      "has_synced": true,
+      "path": "select/02_Thunderstruck_(Feat.Sarah_Russell)_Owl_City.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Thunderstruck",
+      "artist": "Van Canto",
+      "has_synced": true,
+      "path": "select/03_Thunderstruck_Van_Canto.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Thunderstruck",
+      "artist": "Ministry",
+      "has_synced": false,
+      "path": "select/04_Thunderstruck_Ministry.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Thunderstruck",
+      "artist": "AC/DC",
+      "has_synced": true,
+      "path": "select/05_Thunderstruck_AC_DC.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Thunderstruck",
+      "artist": "AC/DC",
+      "has_synced": true,
+      "path": "select/06_Thunderstruck_AC_DC.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Thunderstruck",
+      "artist": "AC/DC",
+      "has_synced": true,
+      "path": "select/07_Thunderstruck_AC_DC.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Thunderstruck",
+      "artist": "AC⁄DC",
+      "has_synced": true,
+      "path": "select/08_Thunderstruck_AC⁄DC.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Thunderstruck",
+      "artist": "AC/DC",
+      "has_synced": true,
+      "path": "select/09_Thunderstruck_AC_DC.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Thunderstruck",
+      "artist": "AC/DC",
+      "has_synced": true,
+      "path": "select/10_Thunderstruck_AC_DC.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Thunderstruck - Commentary",
+      "artist": "Owl City feat. Sarah Russell",
+      "has_synced": false,
+      "path": "select/11_Thunderstruck_-_Commentary_Owl_City_feat._Sarah_Russell.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Thunderstruck (Commentary) (feat. Sarah Russell)",
+      "artist": "Owl City",
+      "has_synced": false,
+      "path": "select/12_Thunderstruck_(Commentary)_(feat._Sarah_Russell)_Owl_City.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Thunderstruck",
+      "artist": "AC/DC",
+      "has_synced": true,
+      "path": "select/13_Thunderstruck_AC_DC.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Thunderstruck",
+      "artist": "AC/DC",
+      "has_synced": true,
+      "path": "select/14_Thunderstruck_AC_DC.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Thunderstruck",
+      "artist": "AC_DC",
+      "has_synced": true,
+      "path": "select/15_Thunderstruck_AC_DC.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Thunderstruck",
+      "artist": "AC/DC",
+      "has_synced": false,
+      "path": "select/pl_01_Thunderstruck_AC_DC.txt"
+    }
+  ]
+}
